@@ -28,10 +28,10 @@ In the end I overlay the image with lines drwn on it on the image with edges.
 
 Fllowing images illustrate the process stp by step: 
 
-[image1]: ![alt text](./gray.jpeg "Grayscale")
-[image2]: ![alt text](./blurred.jpeg "Blurred")
-[image3]: ![alt text](./edges.jpeg "Edge_detected")
-[image4]: ![alt text](./lines_edges.jpeg "Lines_detected")
+[Grayscale]: ![alt text](./gray.jpeg "Grayscale")
+[Blurred]: ![alt text](./blurred.jpeg "Blurred")
+[Edge_detected]: ![alt text](./edges.jpeg "Edge_detected")
+[Lines_detected]: ![alt text](./lines_edges.jpeg "Lines_detected")
 
 ### 2. Identify potential shortcomings with your current pipeline
 
